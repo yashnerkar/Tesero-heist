@@ -1,0 +1,125 @@
+.questionpage {
+    background-image: url(images/nnnn.jpg);
+}
+
+.answerLabel {
+    text-align: center;
+}
+
+.answerContainer {
+    vertical-align: bottom;
+}
+
+.answerDiv {
+    background: rgba(255, 255, 255, 0.5);
+    /* margin-right: 2rem; */
+    /* transform: translateY(5vh); */
+    width: 80%;
+    margin: auto;
+    margin-top: 20%;
+}
+
+.questionContent {
+    margin-top: 10vh;
+}
+
+.u-input {
+    /* margin-left: 3em; */
+    width: 50%;
+    margin: auto;
+}
+
+.questionDiv {
+    /* width: 40em; */
+    /* margin-top: 4rem; */
+    /* margin-left: 3rem; */
+    /* transform: translateY(5vh); */
+    /* margin-bottom: 3rem; */
+    max-height: 100vh;
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+.home_page {
+    background-image: url(images/home4.jpg);
+    height: 600em;
+}
+
+#form-body {
+    background-image: url(images/2020-money-heist-ei.jpg);
+    background-repeat: no-repeat;
+}
+
+#signup-form {
+    background: transparent;
+    /* margin-left: 60rem; */
+    float: right;
+    transform: translateY(50%);
+    width: 30vw;
+}
+
+.form-group {
+    width: 20vw;
+}
+
+.form-control:not(:placeholder-shown) {
+    background-color: #cf4154!important;
+    color: black;
+}
+
+.form-control:placeholder-shown {
+    background-color: #cf4154!important;
+}
+
+.form-control:placeholder {
+    color: black;
+}
+
+#logodiv1 {
+    margin-left: 3rem;
+}
+
+#logodiv2 {
+    margin-left: 32rem;
+}
+
+
+/* @media (max-width:1350px) {
+        .questionDiv {
+            width: 30em;
+            height: 20em; 
+        }
+    }
+     */
+
+.final-img {
+    width: 400px;
+    height: 5rem;
+}
+
+.winnerDiv {
+    background-image: url(images/1.png);
+    background-color: black;
+    background-size: cover;
+    height: 100vh;
+    padding: 0;
+    margin: 0;
+    overflow-y: hidden;
+    font-family: 'Cinzel Decorative', cursive;
+}
+
+.hidden-link {
+    vertical-align: center;
+}
+
+#hiddentext {
+    font-size: 70px;
+}
+
+.secretlink {
+    text-decoration: none;
+    color: white;
+}
+
+.time {
+    margin-top: 50rem;
+}

@@ -1,0 +1,111 @@
+.u-section-1 .u-sheet-1 {
+    min-height: 600px;
+}
+
+.u-section-1 .u-group-1 {
+    width: 400px;
+    min-height: 328px;
+    box-shadow: 5px 5px 20px 0 rgba(0, 0, 0, 0.4);
+    height: auto;
+    margin: 60px auto;
+}
+
+.u-section-1 .u-container-layout-1 {
+    padding: 30px 40px 50px;
+}
+
+.u-section-1 .u-text-1 {
+    text-transform: none;
+    font-weight: 400;
+    font-size: 4.5rem;
+    margin: 0 20px;
+}
+
+.u-section-1 .u-form-1 {
+    width: 486px;
+    margin: 20px auto 0;
+}
+
+.u-section-1 .u-form-group-1 {
+    width: 100%;
+}
+
+.u-section-1 .u-form-group-2 {
+    width: 100%;
+}
+
+.u-section-1 .u-btn-1 {
+    border-style: solid;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+@media (max-width: 1199px) {
+    .u-section-1 .u-group-1 {
+        width: 501px;
+        min-height: 609px;
+        height: auto;
+    }
+    .u-section-1 .u-text-1 {
+        font-size: 3.625rem;
+        width: auto;
+    }
+    .u-section-1 .u-form-1 {
+        width: 401px;
+        height: 147px;
+        margin-right: 20px;
+        margin-left: 0;
+    }
+}
+
+@media (max-width: 991px) {
+    .u-section-1 .u-group-1 {
+        width: 424px;
+        min-height: 574px;
+    }
+    .u-section-1 .u-container-layout-1 {
+        padding-left: 30px;
+        padding-right: 30px;
+        padding-bottom: 30px;
+    }
+    .u-section-1 .u-text-1 {
+        font-size: 3.4375rem;
+    }
+    .u-section-1 .u-form-1 {
+        width: 486px;
+    }
+}
+
+@media (max-width: 767px) {
+    .u-section-1 .u-text-1 {
+        font-size: 3rem;
+        margin-right: 30px;
+    }
+    .u-section-1 .u-form-1 {
+        height: 371px;
+        width: 364px;
+        margin-right: 50px;
+    }
+}
+
+@media (max-width: 575px) {
+    .u-section-1 .u-group-1 {
+        width: 314px;
+        margin-top: 417px;
+        margin-right: 0;
+    }
+    .u-section-1 .u-container-layout-1 {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .u-section-1 .u-text-1 {
+        font-size: 2.8125rem;
+        margin-right: 6px;
+        margin-left: 0;
+    }
+    .u-section-1 .u-form-1 {
+        margin-right: initial;
+        margin-left: initial;
+        width: auto;
+    }
+}
